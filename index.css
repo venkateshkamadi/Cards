@@ -1,0 +1,81 @@
+*{
+    background-color: #000;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.cards{
+    display: flex;
+    padding: 100px 100px;
+    justify-content: center;
+}
+.card1{
+    border: 2px solid #555;
+    background-color:white;
+    border-radius: 12px;
+    width: 450px;
+    height: 550px;
+    margin:0px 20px;
+    box-shadow:15px #02c21f;
+
+
+}
+.card1 img{
+    height:400px;
+    width: 100%;
+    background-color: white;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.card2{
+    border: 2px solid #555;
+    background-color:white;
+    border-radius: 12px;
+    width: 450px;
+    height: 550px;
+    margin:0px 20px;
+    box-shadow: #555;
+
+}
+.card2 img{
+    height:400px;
+    width: 100%;
+    background-color: white;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card3{
+    border: 2px solid #555;
+    background-color:white;
+    border-radius: 12px;
+    width: 450px;
+    height: 550px;
+    margin:0px 20px;
+    box-shadow: #555;
+
+}
+.card3 img{
+    height:400px;
+    width: 100%;
+    
+    background-color: white;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+    
+}
+h3{
+    background-color: rgb(224, 221, 221);
+    text-align: center;
+    color: red;
+    font-family:  Calibri;
+}
+p{
+    color: rgb(40, 40, 40);
+    background-color: white;
+    align-items: center;
+    padding: 20px;
+    font-weight: 600;
+    font-style: bold;
+}
